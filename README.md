@@ -27,6 +27,8 @@ pip install brian2 brian2tools deap numpy matplotlib
 - ISI_Curve.py => Interstimulus delay between prepulse and startle pulse is significant for PPI mechanism. This code will generate a plot of starle percent (activation percentage of PnC population) against interstimulus delay.
 - Optimize_Conductances.py => Here a genetic algorithm is employed to optimize the conductance parameters of the neural network simulation. The goal of the optimization process is to find the optimal conductance values for different neuronal receptors that result in a simulated output closely matching a reference output.
 
+## Related Works
 
+Along the project me and my research partner work together to implement two models. I was modeling the PPI phenomenon and my partner was modeling the Mis-Match Negativity otherwise MMN phenomenon. Following, link will direct to a repository which includes that work. 
 
 
