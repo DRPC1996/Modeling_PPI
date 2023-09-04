@@ -33,4 +33,9 @@ Along the project me and my research partner work together to implement two mode
 
 {Link will be updated}
 
+## Acknowledgements
+
+We extend our heartfelt gratitude to the Computational Neuroscience Group for their unwavering support, invaluable insights, and the unparalleled expertise they provided throughout the duration of this study. Special thanks are due to our dedicated supervisors, Professor Tuomo Mäki-Marttunen and Professor Marja-Leena Linne. Their profound knowledge, meticulous guidance, and unyielding commitment were instrumental in navigating the complexities of this research. The enriching environment they fostered, coupled with their mentorship, significantly shaped this work and inspired us at every juncture. 
+
+This project works were funded by Academy of Finland, grant numbers 330776 and 336376.
 
