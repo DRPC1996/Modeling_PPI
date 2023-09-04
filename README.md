@@ -31,7 +31,7 @@ pip install brian2 brian2tools deap numpy matplotlib
 
 Along the project me and my research partner work together to implement two models. I was modeling the PPI phenomenon and my partner was modeling the Mis-Match Negativity otherwise MMN phenomenon. Following, link will direct to a repository which includes that work. 
 
-{Link will be updated}
+https://github.com/xmahei/Modelling_MMN.git
 
 ## Acknowledgements
 
